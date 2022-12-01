@@ -5,9 +5,9 @@
 	"NULL_SUBTITLE": "Horde of Many",
 	"DEFAULT_SKIN" : "Default",
 
-	"ELITE_MODIFIER_FIRE": "Blazing {0}",
+	"ELITE_MODIFIER_FIRE": "Kogt {0}",
 	"ELITE_MODIFIER_LIGHTNING": "Overloading {0}",
-	"ELITE_MODIFIER_ICE": "Glacial {0}",
+	"ELITE_MODIFIER_ICE": "Frossen {0}",
 	"ELITE_MODIFIER_POISON" : "Malachite {0}",
 	"ELITE_MODIFIER_HAUNTED" : "Celestine {0}",
 	"ELITE_MODIFIER_ECHO" : "Annihilator {0}",
