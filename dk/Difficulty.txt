@@ -6,7 +6,7 @@
 	"DIFFICULTY_BAR_2": "Ikke en sky på himlen",
 	"DIFFICULTY_BAR_3": "Bob bob",
 	"DIFFICULTY_BAR_4": "En lille sky måske",
-	"DIFFICULTY_BAR_5": "Uhhmmm",
+	"DIFFICULTY_BAR_5": "Øhhh",
 	"DIFFICULTY_BAR_6": "er det lidt overskyet?!",
 	"DIFFICULTY_BAR_7": "måske er der RICICI FOR REGN",
 	"DIFFICULTY_BAR_8": "DET REGNER!",
