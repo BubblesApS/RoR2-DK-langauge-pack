@@ -2,7 +2,7 @@
 	strings:
 	{
 	//[NULL]
-	"NULL_SUBTITLE": "Horde of Many",
+	"NULL_SUBTITLE": "Alt for mange",
 	"DEFAULT_SKIN" : "Default",
 
 	"ELITE_MODIFIER_FIRE": "Kogt {0}",
